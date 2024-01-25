@@ -2,9 +2,9 @@
 
 #!/bin/bash
 
-# Script: Ops 201 Class 03 Ops Challenge Solution
+# Script: Ops SP 201 Class 03 Ops Challenge Solution
 # Author: Ashanyah Israel
-# Date of latest revision: 2/13/23
+# Date of latest revision: 1/25/24
 # Purpose: Write a script that prints the login history of users on this computer.
 
 
