@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Script: Ops 201 Class 05 Ops Challenge Solution
+# Script: Ops SP 201 Class 05 Ops Loops Challenge Solution
 # Author: Ashanyah Israel
-# Date of latest revision: 2/16/23
+# Date of latest revision: 1/28/24
 # Purpose: 
 #Write a script that displays running processes, asks the user for a PID, then kills the process with that PID.
 #Use a loop in your script.#
