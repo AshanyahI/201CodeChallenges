@@ -1,5 +1,19 @@
 #!/bin/bash
 
+# Script: Ops SP 201 Class 04 Ops Challenge Solution
+# Author: Ashanyah Israel
+# Date of latest revision: 1/28/24
+# Purpose: Automation of Directory Creation
+
+
+# Main
+#Creates four directories: dir1, dir2, dir3, dir4
+#Put the names of the four directories in an array
+#References the array variable to create a new .txt file in each directory.
+
+
+#!/bin/bash
+
 # Create four directories
 mkdir dir1
 mkdir dir2
