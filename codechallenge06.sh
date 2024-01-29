@@ -2,7 +2,7 @@
 
 # Script: Ops 201 Class 06 Ops Challenge Solution
 # Author: Ashanyah Israel
-# Date of latest revision: 2/14/23
+# Date of latest revision: 1/28/24
 # Purpose: Create a script that detects if a file or directory exists, then creates it if it does not exist.
 
 
