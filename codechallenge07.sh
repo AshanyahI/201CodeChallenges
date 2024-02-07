@@ -1,5 +1,17 @@
 #!/bin/bash
 
+#!/bin/bash
+
+# Script: Ops 201 Class 07 Ops Challenge Solution
+# Author: Ashanyah Israel
+# Date of latest revision: 2/07/24
+# Purpose: Create a script that Automates the gathering of useful information
+
+# Main
+# Create a script that detects if a file or directory exists, then creates it if it does not exist.
+# Your script must use at least one array, one loop, and one conditional.
+# End
+
 # Check if the script is run as root
 if [[ $(id -u) -ne 0 ]]; then
     echo "Please run this script as root or using sudo."
