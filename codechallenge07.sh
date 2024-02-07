@@ -9,6 +9,7 @@
 
 # Main
 # This script utilizes lshw to gather system information and grep to filter out irrelevant details. Each section of the script is clearly labeled to indicate which component's information is being displayed.
+# sited:chat gpt
 # End
 
 # Check if the script is run as root
