@@ -8,7 +8,7 @@
 # Purpose: Create a script that Automates the gathering of useful information
 
 # Main
-# Create a script that Uses lshw to display system information to the screen
+# This script utilizes lshw to gather system information and grep to filter out irrelevant details. Each section of the script is clearly labeled to indicate which component's information is being displayed.
 # End
 
 # Check if the script is run as root
