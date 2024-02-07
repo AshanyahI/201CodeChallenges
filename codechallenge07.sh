@@ -8,8 +8,7 @@
 # Purpose: Create a script that Automates the gathering of useful information
 
 # Main
-# Create a script that detects if a file or directory exists, then creates it if it does not exist.
-# Your script must use at least one array, one loop, and one conditional.
+# Create a script that Uses lshw to display system information to the screen
 # End
 
 # Check if the script is run as root
